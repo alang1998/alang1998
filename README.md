@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Alang Pandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alang1998&show_icons=true&theme=radical)
+# My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alang1998&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
+![Stats GitHub kamu](https://github-readme-stats.vercel.app/api?username=alang1998&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alang1998&layout=compact&theme=radical)
 
 <!--
 **alang1998/alang1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
